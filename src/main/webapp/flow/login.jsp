@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>웰컴페이지</h1>
-	<a href="">아아디</a>
-	<a href="">비밀번호</a>
 
 </body>
 </html>
